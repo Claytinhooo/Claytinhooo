@@ -32,5 +32,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Claytinhooo/Claytinhooo/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Claytinhooo&repo=Projeto-Tela-Login)](https://github.com/Claytinhooo/Projeto-Tela-Login)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Claytinhooo&repo=Projeto-Tela-Login)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Claytinhooo&repo=Projeto-Calculadora-Simples)]
 
