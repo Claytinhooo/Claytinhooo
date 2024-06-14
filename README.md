@@ -4,7 +4,7 @@
 - 📘 Estudando JavaScript 
   
   <a href="https://github.com/Claytinhooo/github-readme-stats">
-    <img height=150 align="center" padding="5" src="https://github-readme-stats.vercel.app/api?username=Claytinhooo&theme=gotham&show_icons=true"/>
+    <img height=150 align="center" padding-right="15" src="https://github-readme-stats.vercel.app/api?username=Claytinhooo&theme=gotham&show_icons=true"/>
   </a>
   
   <a href="https://github.com/Claytinhooo/convoychat">
