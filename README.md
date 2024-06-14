@@ -15,8 +15,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  ![ezgif com-animated-gif-maker](https://github.com/Claytinhooo/Claytinhooo/assets/163948818/7b042e59-b14f-43f9-976a-456c1d7058de&align="center")
+   <img align="center" alt="Caua-gengar" height="150" width="150" src="https://discord.com/channels/@me/1245458330521174116/1251226694648463410"
 
 </div>
 
