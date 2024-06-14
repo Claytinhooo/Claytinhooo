@@ -35,4 +35,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Claytinhooo/Claytinhooo/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Snake animation](https://github.com/Claytinhooo/Claytinhooo/blob/output/github-contribution-grid-snake.svg)
