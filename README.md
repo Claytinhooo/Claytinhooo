@@ -8,7 +8,7 @@
   </a>
   
   <a href="https://github.com/Claytinhooo/convoychat">
-    <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Claytinhooo&layout=compact&langs_count=8&card_width=320&theme=gotham"/>
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Claytinhooo&layout=compact&langs_count=8&card_width=320&theme=gotham"/>
   </a>
 
 <div style="display: inline_block"><br>
