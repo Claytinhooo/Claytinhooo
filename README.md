@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Caua-gengar" height="150" width="150" src="https://media.discordapp.net/attachments/1245458330521174116/1251226694128238592/ezgif.com-gif-to-webm-converter.gif?ex=666dcf2a&is=666c7daa&hm=80570075139a46da4d45f71642e6afb96640aa7d692185718843027089d11c71&=">
+   <img align="center" alt="Caua-gengar" height="150" width="150" src="https://s6.ezgif.com/tmp/ezgif-6-64c39f2440.gif">
 
 </div>
 
