@@ -16,8 +16,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Caua-Gengar" width="150" height="150"  src="https://s7.ezgif.com/tmp/ezgif-7-d59d5f669d.gif"
-    
+  <img align="right" alt="Caua-Gengar" width="150" height="150"  src="https://s7.ezgif.com/tmp/ezgif-7-d59d5f669d.gif">
 </div>
 
 ##
@@ -33,6 +32,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Claytinhooo/Claytinhooo/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Claytinhooo&repo=Projeto-Tela-Login&theme="gotham")
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Claytinhooo&repo=Projeto-Calculadora-Simples&theme="gotham")
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Claytinhooo&repo=Projeto-Tela-Login&bg_color="fffff")
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Claytinhooo&repo=Projeto-Calculadora-Simples&bg_color="fffff")
 
