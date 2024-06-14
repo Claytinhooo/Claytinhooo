@@ -3,7 +3,7 @@
 - 💻 Hoje trabalho como Auxiliar de PCP, mas estou migrando para Dev. Front-End
 - 📘 Estudando JavaScript 
   
-  <a href="https://github.com/Claytinhooo/Claytinhooo">
+  <a href="https://github.com/Claytinhooo/">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Claytinhooo&theme=gotham&show_icons=true"/>
   </a>
   
